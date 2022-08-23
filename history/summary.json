@@ -4,7 +4,7 @@
     "url": "https://idiomaticprogrammers.com",
     "icon": "https://favicons.githubusercontent.com/idiomaticprogrammers.com",
     "slug": "idiomatic-programmers",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 203,
     "timeMonth": 337,
     "timeYear": 337,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-23": 0
+    }
   }
 ]
