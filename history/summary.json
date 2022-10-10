@@ -4,7 +4,7 @@
     "url": "https://idiomaticprogrammers.com",
     "icon": "https://icons.duckduckgo.com/ip3/idiomaticprogrammers.com.ico",
     "slug": "idiomatic-programmers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 273,
     "timeYear": 298,
     "dailyMinutesDown": {
+      "2022-10-10": 0,
       "2022-08-23": 20
     }
   }
