@@ -6,17 +6,16 @@
     "slug": "idiomatic-programmers",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 278,
-    "timeDay": 210,
-    "timeWeek": 234,
-    "timeMonth": 218,
+    "timeDay": 190,
+    "timeWeek": 231,
+    "timeMonth": 219,
     "timeYear": 278,
     "dailyMinutesDown": {
-      "2023-05-05": 11,
       "2022-10-10": 19,
       "2022-08-23": 20
     }
